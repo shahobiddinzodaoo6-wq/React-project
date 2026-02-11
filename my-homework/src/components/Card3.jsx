@@ -12,4 +12,4 @@ const Card3 = (prop) => {
     )
 }
 
-export default Card3
+export default Card3    

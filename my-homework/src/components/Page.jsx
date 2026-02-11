@@ -16,6 +16,7 @@ const Page = (prop) => {
                 <img className='hidden max-sm:block  max-sm:w-[420px] max-sm:h-[250px] max-sm:mt-[30px]' src={prop.image4} alt="" />
 
                 </div>
+    
 
             </div>
             <div className='mt-[60px] flex justify-center gap-[50px] max-sm:hidden'>
